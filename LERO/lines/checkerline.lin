@@ -1,0 +1,9 @@
+A
+850
+LINE_PAINT
+
+TEXTURE checker_line.png
+SCALE 1.2 12
+TEX_WIDTH 32
+S_OFFSET 0 0 15 31
+LAYER_GROUP markings +1
