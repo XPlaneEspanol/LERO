@@ -1,0 +1,8 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP runways +2
+
+TEXTURE asfalto_tipo2.dds
+SURFACE asphalt
+SCALE 10 10
