@@ -17,7 +17,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="1107"/>
+                <sel id="149"/>
             </selection>
         </object>
         <object class="WED_KeyObjects" id="3" parent_id="1">
@@ -72,7 +72,7 @@
                 <child id="28"/>
                 <child id="29"/>
             </children>
-            <hierarchy hidden="1" locked="1" name="04/22"/>
+            <hierarchy hidden="0" locked="1" name="04/22"/>
             <line width="45.00"/>
             <runway REIL1="None" REIL2="None" TDZL1="0" TDZL2="0" app_lites1="MALSF" app_lites2="MALSF" blastpad1="0.0" blastpad2="0.0" center_lites="1" displaced1="0.0" displaced2="0.0" distance_signs="1" edge_lites="MIRL" markings1="Non-Precision (US)" markings2="Non-Precision (US)" roughness="0.00" shoulder="None" surface="Asphalt"/>
         </object>
@@ -970,7 +970,7 @@
                 <child id="152"/>
                 <child id="107"/>
             </children>
-            <hierarchy hidden="1" locked="1" name="Pavimentos"/>
+            <hierarchy hidden="0" locked="1" name="Pavimentos"/>
         </object>
         <object class="WED_LinePlacement" id="918" parent_id="933">
             <sources/>
@@ -3078,7 +3078,7 @@
                 <child id="674"/>
                 <child id="717"/>
             </children>
-            <hierarchy hidden="1" locked="1" name="CalleRodadadura"/>
+            <hierarchy hidden="0" locked="1" name="CalleRodadadura"/>
         </object>
         <object class="WED_Group" id="355" parent_id="26">
             <sources/>
